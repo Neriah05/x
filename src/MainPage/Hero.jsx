@@ -52,12 +52,14 @@ const Hero = () => {
 
         {/* Purchase Button */}
         <div className="flex justify-center mt-6">
-          <button className="flex gap-2 items-center bg-gradient-to-r from-[#030713] via-[#62A5FA] to-[#030713] text-white font-bold py-3 px-6 rounded-lg border border-transparent hover:border-blue-300 transition duration-300">
-            Purchase Tokens
-            <span>
-              <ion-icon name="arrow-forward-outline"></ion-icon>
-            </span>
-          </button>
+          <a href="https://x-coinpro.com/dashboard/login.php">
+            <button className="flex gap-2 items-center bg-gradient-to-r from-[#030713] via-[#62A5FA] to-[#030713] text-white font-bold py-3 px-6 rounded-lg border border-transparent hover:border-blue-300 transition duration-300">
+              Purchase Tokens
+              <span>
+                <ion-icon name="arrow-forward-outline"></ion-icon>
+              </span>
+            </button>
+          </a>
         </div>
 
         {/* Progress Bar */}

@@ -11,9 +11,11 @@ const RevolutionComponent = () => {
           Don't miss out on this opportunity to be part of the future of digital
           transactions.
         </p>
-        <button className="mt-8 px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
-          Buy Tokens Now →
-        </button>
+        <a href="https://x-coinpro.com/dashboard/login.php">
+          <button className="mt-8 px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-full shadow-lg focus:outline-none focus:ring-2 focus:ring-blue-400">
+            Buy Tokens Now →
+          </button>
+        </a>
       </div>
     </div>
   );

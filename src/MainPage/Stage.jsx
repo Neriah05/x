@@ -32,9 +32,11 @@ const Stage = () => {
           </div>
         </div>
         <div className="mt-4 md:mt-0">
-          <button className="bg-gradient-to-r from-blue-500 to-purple-500 py-2 px-6 rounded-lg text-white font-semibold hover:opacity-80">
-            Buy Now →
-          </button>
+          <a href="https://x-coinpro.com/dashboard/login.php">
+            <button className="bg-gradient-to-r from-blue-500 to-purple-500 py-2 px-6 rounded-lg text-white font-semibold hover:opacity-80">
+              Buy Now →
+            </button>
+          </a>
         </div>
       </div>
 

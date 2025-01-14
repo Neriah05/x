@@ -105,12 +105,12 @@ function Nav() {
 
         {/* Contact Us Button */}
         <div className="hidden md:flex gap-5 flex-shrink-0">
-          <a href="https://dexscreener.com/solana/5zvpqvfkdjjss3aftrxylm2vnzfj2xazux9knpw8aeem">
+          <a href="https://x-coinpro.com/dashboard/login.php">
             <button className="bg-transparent hover:bg-[#E5E5E5] hover:text-[#000000] text-[#E5E5E5] px-6 py-1.5 rounded-lg border border-[#E5E5E5]">
               Login
             </button>
           </a>
-          <a href="https://dexscreener.com/solana/5zvpqvfkdjjss3aftrxylm2vnzfj2xazux9knpw8aeem">
+          <a href="https://x-coinpro.com/dashboard/register.php">
             <button className="bg-transparent hover:bg-[#E5E5E5] hover:text-[#000000] text-[#E5E5E5] px-6 py-1.5 rounded-lg border border-[#E5E5E5]">
               Register
             </button>
